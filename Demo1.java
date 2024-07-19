@@ -3,7 +3,7 @@ class Arr
 	public static void main(String s[])
 	{
 		String a[]=new String[10];
-		a[0]="anitha";
+		a[0]="anita";
 		a[1]="liki";
 		a[2]="vishala";
 		a[3]="ruchita";
